@@ -40,7 +40,7 @@ def xploitz(codi):
 
 print "[*] Generating HTML files..."
 
-xploitv(codi)
+#xploitv(codi)
 xploitz(codi)
 
 print "[*] Finished!"
